@@ -3,3 +3,5 @@ A simple double-layer LED star PCB (traces mostly on top, some on bottom) that w
 
 <img width="726" height="685" alt="image" src="https://github.com/user-attachments/assets/a5120f75-f55e-4cd6-a41d-0675b258319e" />
 <img width="726" height="685" alt="image" src="https://github.com/user-attachments/assets/6e733722-f03d-455b-b1a5-18c40fec778d" />
+
+HI REVIEWERS IF YOU ARE READING THIS PLEASE MESSAGE ME ON SLACK MY LAPSE WASNT WORKING SO ALMOST A WHOLE HOUR WASNT COUNTED ON HACKATIME BUT I HAVE EVIDENCE
